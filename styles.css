@@ -1,0 +1,66 @@
+#titulo-principal {
+    font-size: 60px;
+    font-family:serif, Verdana, Geneva;
+}
+
+#titulo-terapia {
+    font-size: 60px;
+    font-family:serif, Verdana, Geneva;
+}
+
+#titulo-projeto {
+    font-size: 60px;
+    font-family:serif, Verdana, Geneva;
+}
+
+body {
+    background: url(iamgem\ de\ fundo\ luisa.jpg);
+    background-size: cover;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+p {
+    font-size: 18px;
+}
+
+#espaçamento {
+    margin-top: 45px;
+    margin-bottom: 30px;
+}
+
+.CorVermelha {
+    color: rgb(0, 0, 0);
+    font-family:'Arial Black';
+}
+h2 {
+    color: rgb(255, 255, 255);
+}
+
+#terapia {
+    width: 650px;
+    margin-bottom: 40px;
+}
+
+.finalização {
+    font-family:'Times New Roman', Times, serif;
+}
+
+
+#capa-projeto {
+    width: 500px;
+    margin-bottom: 40px;
+}
+
+#animais {
+    font-size: 60px;
+    font-family:serif, Verdana, Geneva;
+}
+
+#brasil {
+    font-size: 60px;
+    font-family:serif, Verdana, Geneva;
+}
+
+#letra {
+    font-size: 15px;
+}
